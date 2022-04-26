@@ -1,4 +1,4 @@
-# Hi 👋 My name is Võ Long
+# Hi 👋 My name is Võ Long from UIT
 
 ## Front-end web developer
 
