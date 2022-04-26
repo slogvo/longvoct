@@ -1,4 +1,4 @@
-# Hi 👋 My name is Vo Long
+# Hi 👋 My name is Võ Long
 
 ## Front-end web developer
 
@@ -26,4 +26,5 @@ A year ago, I started learning to code, focusing on front-end development. This 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/longvoct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
- <a href="https://www.facebook.com/volonglqd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="http://www.instagram.com/philioon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+ <a href="https://www.facebook.com/volonglqd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+ <a href="http://www.instagram.com/philioon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
