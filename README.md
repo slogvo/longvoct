@@ -1,5 +1,6 @@
-# Hi 👋 My name is Long Vo from UIT
+# Hi 👋 My name is Võ Long
 
+## Front-end web developer
 
 A year ago, I started learning to code, focusing on front-end development. This was not completely new to me, as I’ve been doing this learning to code thing for a few years now. Most of the time it was something that I did for fun.
 
@@ -21,6 +22,7 @@ A year ago, I started learning to code, focusing on front-end development. This 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="VSCode" /></a>
 </p>
 
 ### Socials
