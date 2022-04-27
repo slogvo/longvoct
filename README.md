@@ -1,8 +1,7 @@
 # Hi 👋 My name is Võ Long from UIT
 
-## Front-end web developer
 
-A year ago, I started learning to code, focusing on front-end development. This was not completely new to me, as I’ve been doing this learning to code thing for a few years now. Most of the time it was something that I did for fun.
+Not long ago, I started learning to code, focusing on front-end development. This was not completely new to me, as I’ve been doing this learning to code thing for a few years now. Most of the time it was something that I did for fun.
 
 - ✉️  You can contact me at [volonglqd@gmail.com](mailto:volonglqd@gmail.com)
 
