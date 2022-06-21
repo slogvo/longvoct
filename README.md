@@ -1,7 +1,7 @@
 # Hi 👋 My name is Long Vo from UIT
 
 
-Not long ago, I started learning to code, focusing on front-end development. This was not completely new to me, as I’ve been doing this learning to code thing for a few years now. Most of the time it was something that I did for fun.
+I'm a Web Developer 👨🏻‍💻. I'm an UI Designer and mostly like Frontend Development.
 
 - ✉️  You can contact me at [volonglqd@gmail.com](mailto:volonglqd@gmail.com)
 
