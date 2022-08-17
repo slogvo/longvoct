@@ -1,7 +1,7 @@
 # Hi 👋 My name is Long Vo from UIT
 
 
-I'm a Web Developer 👨🏻‍💻. I'm an UI Designer and mostly like Frontend Development.
+I'm a Front-End Web Developer 👨🏻‍💻. I'm an UI Designer and mostly like Frontend Development.
 
 - ✉️  You can contact me at [volonglqd@gmail.com](mailto:volonglqd@gmail.com)
 
